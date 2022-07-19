@@ -1,0 +1,14 @@
+NAME : null
+TYPE : TOUR
+DIMENSION : 8
+SOLUTION: 166
+TOUR_SECTION
+11 - 0,5,3
+44 - 0,5,3,1
+9 - 0,5
+27 - 0,5,3
+5 - 0
+34 - 0,5,3
+36 - 0,5,3,6
+-1
+EOF
